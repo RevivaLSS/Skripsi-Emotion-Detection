@@ -1,0 +1,2 @@
+# Skripsi-Emotion-Detection
+Skripsi
